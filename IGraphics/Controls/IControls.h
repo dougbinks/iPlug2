@@ -551,5 +551,7 @@ protected:
 END_IGRAPHICS_NAMESPACE
 END_IPLUG_NAMESPACE
 
+#include "IVPresetManagerControl.h"
+
 /**@}*/
 
